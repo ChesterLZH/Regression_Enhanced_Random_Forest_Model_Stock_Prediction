@@ -3,7 +3,8 @@
 This notebook aims to analyse the prediction abilities of the Regression-Enhanced Random Forest model by H Zhang, D Nettleton and Z Zhu 
 <br>Paper: https://arxiv.org/pdf/1904.10416.pdf<br>
 <br>
-The model will be used to predict Pepsi Stock (PEP), and compared against technical analysis based trading (SMA crossover) and simple machine learning (LASSO Regression) to test its effectiveness in both pre and post-Covid environments
+# <strong>Approach</strong><br>
+The model will be used to predict Pepsi Stock (PEP), and compared against technical analysis based trading (SMA crossover) and simple machine learning (LASSO Regression) to test its effectiveness in both pre and post-Covid environments<br>
 <br>
 # <strong>Summary</strong>
 <strong>Portfolio value (USD) after 2 months</strong><br> 
