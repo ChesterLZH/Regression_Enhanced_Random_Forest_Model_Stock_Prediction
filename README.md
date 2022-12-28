@@ -7,16 +7,14 @@ This notebook aims to analyse the prediction abilities of the Regression-Enhance
 The model will be used to predict Pepsi Stock (PEP), and compared against technical analysis based trading (SMA crossover) and simple machine learning (LASSO Regression) to test its effectiveness in both pre and post-Covid environments<br>
 <br>
 # <strong>Summary</strong>
-<strong>Portfolio value (USD) after 2 months</strong><br> 
-<br>
+# <strong>Portfolio value (USD) after 2 months</strong><br> 
 SMA Crossover (pre-Covid): 103935.74 <br>
 SMA Crossover (post-Covid): 103008.72 <br>
 <br>
 REFR based trading (pre-Covid): 104234.97 <br>
 REFR based trading (post-Covid): 101179.52 <br>
 <br>
-<strong>RMSE comparison</strong><br>
-<br>
+# <strong>RMSE comparison</strong><br>
 linear model (pre-Covid): 0.609 <br>
 linear model (post-Covid): 1.154 <br>
 <br>
