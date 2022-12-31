@@ -12,7 +12,7 @@ Paper: https://arxiv.org/pdf/1904.10416.pdf<br>
 5. REFR model built
 6. Predicitons made using LASSO model and REFR model
 <br>
-# Metric <br>
+# <strong>Metric<strong> <br>
 1. RMSE used to compare effectiveness of ML models
 2. Return on Investment of trades made using REFR predictions and SMA crossover were compared over a period of 2 months to determine model effectiveness
 <br>
