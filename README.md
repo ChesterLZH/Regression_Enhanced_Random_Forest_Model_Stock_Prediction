@@ -40,4 +40,5 @@ RMSE comparison<br>
 This project can be improved with multi-variable models to enhance accuracy by analysing more factors which affect the market environments, and it will be interesting to test the effectiveness of REFR applied onto multi-variable models. Further tuning of the model parameters are also required, and can be performed to improve the accuracy of the REFR model <br>
 <br>
 #References<br>
+  
 Zhang, H., Nettleton, D., & Zhu, Z. (2019). Regression-enhanced random forests. arXiv preprint arXiv:1904.10416.
